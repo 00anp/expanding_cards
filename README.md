@@ -39,9 +39,6 @@ A responsive webpage that features expanding image panels. Clicking on any panel
   - Each panel has an event listener for the click event. When clicked, the panel becomes active by adding an `active` class, and the rest of the panels shrink.
   - The `removeActiveClasses` function ensures that only one panel is active at a time.
 
-## Screenshots
-Include some screenshots of the project here to give a visual overview (Optional).
-
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
